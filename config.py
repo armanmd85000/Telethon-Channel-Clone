@@ -2,6 +2,6 @@ class Config():
     API_ID = "22467463"
     API_HASH = "156c0c4ecf6c03b4eb4ea9ac36e465d0"
     PHONE_NUMBER = "+918512058133"
-    NAME = "GreyTime"
+    NAME = "LightSkillHUb"
     SRC_CHAT_ID = -1002506562376
     DEST_CHAT_ID = -1002627544344
